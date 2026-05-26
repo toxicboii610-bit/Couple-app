@@ -1,0 +1,6 @@
+{
+  "name": "Nikki & Suraj — Our Universe",
+  "description": "A premium, futuristic galaxy-themed app designed exclusively for Nikki & Suraj to celebrate their memories, art, and love.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
